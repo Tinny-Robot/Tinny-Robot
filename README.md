@@ -2,7 +2,7 @@
 <h1 align="center" >Hey there :wave:, I'm <a href="https://www.linkedin.com/in/nathaniel-handan-35944b218/" target="_blank">Nathaniel Handan</a></h1>
 <!-- <img width="20%" align="right"   src="./passport-crop.png" > -->
 
-<h1 align="center">About Me ⚡</h1>
+<h1 align="center">About Me⚡</h1>
 
 I am a **machine learning engineer** passionate about **solving problems** using **technologies**. With my experiences in the field computing, I believe technology is the solutions to the most of the problems facing humanity. I am proud to be solving problem and **support problem solvers**. 
 
