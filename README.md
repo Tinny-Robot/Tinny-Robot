@@ -13,11 +13,11 @@ I am a **machine learning engineer** passionate about **solving problems** using
 
 <h1>Technical Skills 🛠</h1>
    
-Languages:	JavaScript, Python, C++.
+<b>Languages:</b>	JavaScript, Python, C++.
 
-Management:  Leadership, Communication, Critical Thinking, Emotional Intelligence.
+<b>Management:</b>  Leadership, Communication, Critical Thinking, Emotional Intelligence.
 
-Technologies: Git, REST, BASH, Bash Scripting, Ansible, AWS, VS Code, Netlify, Express, Arduino,Raspberrypi, ROS2, CorelDraw, MongoDB, MySQL, Heroku, Machine Learning, Deep Neural Network.
+<b>Technologies:</b> Git, REST, BASH, Bash Scripting, Ansible, AWS, VS Code, Netlify, Express, Arduino,Raspberrypi, ROS2, CorelDraw, MongoDB, MySQL, Heroku, Machine Learning, Deep Neural Network.
 
 
 <p align="center"> 
