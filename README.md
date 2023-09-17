@@ -5,7 +5,7 @@
 
 <h1 align="center">About Me⚡</h1>
 
-I am a **machine learning engineer** passionate about **solving problems ** using **technologies**. With my experiences in the field computing, I believe technology is the solutions to the most of the problems facing humanity. I am proud to be solving problem and **support problem solvers**. 
+I am a **machine learning engineer** passionate about **solving problems** using **technologies**. With my experiences in the field computing, I believe technology is the solutions to the most of the problems facing humanity. I am proud to be solving problem and **support problem solvers**. 
 
 ![image](https://github.com/Tinny-Robot/Tinny-Robot/assets/87228776/ad953195-f069-4549-85de-4a1aa4e8fbaa)
 
