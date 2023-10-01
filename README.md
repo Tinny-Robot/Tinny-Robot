@@ -86,7 +86,8 @@ I am a **machine learning engineer** passionate about **solving problems** using
   </div>
 
  [![Tinny-Robot's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Tinny-Robot&theme=xcode)](https://github.com/Tinny-Robot)
-   
+
+[![An image of @tinnyrobot's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tinnyrobot)](https://holopin.io/@tinnyrobot)
    
 
 [![GitHub followers](https://img.shields.io/github/followers/Tinny-Robot.svg?style=social&label=Follow)](https://github.com/Tinny-Robot?tab=followers)
